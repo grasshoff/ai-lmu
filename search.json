@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "themenbloecke.html",
+    "href": "themenbloecke.html",
+    "title": "Themen",
+    "section": "",
+    "text": "Gerd Graßhoff\n\n\n\n\n\nThemen\n\nBlock 1: Generative AI\n\nWas ist und kann AI?\n\nSyntax vs. Semantik\n\nGrundlagen\n\nEmbeddings\nTransformationen\n\nMetaphern der AI\n\nArtificial Intelligence\nChatGPT\nReasoning\n\nDemonstrationen\n\nLevel 1: Basis\n\nSemantische Zusammenhänge\nFrage-Antwort\nZusammenfassung\nChats - Konversation\nKlassifikation\nUmformatierung\n\nLevel 2: Lernen\n\nKonversation und Korrektur\n\nLevel 3: Reasoning\n\nFälschung, Evidenz und Rechtfertigung\n\nHalluzination\nFälschung\nEvidenz\nRechtfertigung\n\n\nBlock 2: Lehre\nBlock 3: Vorteil Forschung\nBlock 4: Rechtliche Aspekte",
+    "crumbs": [
+      "Themen"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#semantik-und-embeddings",
+    "href": "lmu2023.html#semantik-und-embeddings",
+    "title": "AI für Geschichte",
+    "section": "Semantik und Embeddings",
+    "text": "Semantik und Embeddings",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#transformationen",
+    "href": "lmu2023.html#transformationen",
+    "title": "AI für Geschichte",
+    "section": "Transformationen",
+    "text": "Transformationen\n\nText -&gt; Text\nText -&gt; Bild\nText -&gt; Audio\nText -&gt; Video\nText -&gt; Mathematische Formel\nText -&gt; Programmcode\nText -&gt; Datenbank\nBild -&gt; Text\nBild -&gt; Bild\nBild -&gt; Audio\nBild -&gt; Video\nBild+Text -&gt; Bild\nBild+Text -&gt; Text\nAudio+Text -&gt; Text",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#semantic-references",
+    "href": "lmu2023.html#semantic-references",
+    "title": "AI für Geschichte",
+    "section": "Semantic References",
+    "text": "Semantic References\n\nWerke segmentiert in Einheiten\n\nBücher\n\nThemen\nMetadaten\n\nKapitel\nParagraphen\nSätze\nToken\nMathematische Ausdrücke\nQuellen\nAnnotationen\nEinführungen / Kommentare",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#semantische-embeddings",
+    "href": "lmu2023.html#semantische-embeddings",
+    "title": "AI für Geschichte",
+    "section": "Semantische Embeddings",
+    "text": "Semantische Embeddings\n- Euler Opera Omnia - 1/2 mio Sätze",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#scholarium",
+    "href": "lmu2023.html#scholarium",
+    "title": "AI für Geschichte",
+    "section": "Scholarium",
+    "text": "Scholarium\n- BEK: kuratierte Sekundärliteratur\n- BEK: Contributions\n- BEK: Bibliometrische Information (ca. 12 000 Publikation inkl. Abstract)",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#reinforced-learning",
+    "href": "lmu2023.html#reinforced-learning",
+    "title": "AI für Geschichte",
+    "section": "Reinforced Learning",
+    "text": "Reinforced Learning\n\nhttps://arxiv.org/abs/2309.09400",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#kontext-literatur",
+    "href": "lmu2023.html#kontext-literatur",
+    "title": "AI für Geschichte",
+    "section": "Kontext Literatur",
+    "text": "Kontext Literatur\n\nZeitgenossen\nRelevante Literatur nach Themenähnlichkeit\nÄltere Quellen\nBriefwechsel",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#semantisch-verwandte-themen",
+    "href": "lmu2023.html#semantisch-verwandte-themen",
+    "title": "AI für Geschichte",
+    "section": "Semantisch verwandte Themen",
+    "text": "Semantisch verwandte Themen\n\nMathematische Probleme\nNotationen\nBegriffs Universum\nMethodische Vorgehensweisen\nmaterielle Quellen\n\nInstrumente\nKarten\nZeichnungen",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#vektordatenbank",
+    "href": "lmu2023.html#vektordatenbank",
+    "title": "AI für Geschichte",
+    "section": "Vektordatenbank",
+    "text": "Vektordatenbank\n\nIndex Dateien für alle embeddings",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#entitäten",
+    "href": "lmu2023.html#entitäten",
+    "title": "AI für Geschichte",
+    "section": "Entitäten",
+    "text": "Entitäten\n\nPersonen\nOrte\nFachausdrücke",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#segment_2-tabelle-einzelner-sätze",
+    "href": "lmu2023.html#segment_2-tabelle-einzelner-sätze",
+    "title": "AI für Geschichte",
+    "section": "Segment_2 Tabelle einzelner Sätze",
+    "text": "Segment_2 Tabelle einzelner Sätze",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "lmu2023.html#computation",
+    "href": "lmu2023.html#computation",
+    "title": "AI für Geschichte",
+    "section": "Computation",
+    "text": "Computation",
+    "crumbs": [
+      "AI für Geschichte"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "AI für Geschichte",
+    "section": "",
+    "text": "Gerd Graßhoff\n\n\n\n\n\nAI für Geschichte",
+    "crumbs": [
+      "AI für Geschichte, Philosophie und Geisteswissenschaften"
+    ]
+  }
+]
